@@ -17,7 +17,7 @@ int main()
                 cout << " *";
                 continue;
             }
-            cout << "  ";
+            cout << " 1";
         }
         cout << endl;
     }
